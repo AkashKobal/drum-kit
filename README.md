@@ -3,7 +3,7 @@
 This repository contains an interactive Drum Kit web application that plays instrument sounds when users click on keyboard keys or mouse buttons. Built with HTML, CSS, and JavaScript, it provides a fun and engaging way to create music.
 
 ## Demo
-Check out the live demo: [Drum Kit Demo](https://github.com/AkashKobal/drum-kit.git) 
+Check out the live demo: [Drum Kit Demo](https://akashkobal.github.io/drum-kit/) 
 
 ![alt text](https://github.com/AkashKobal/drum-kit/blob/main/Screenshot%20(351).png)
 
